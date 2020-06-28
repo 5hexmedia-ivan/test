@@ -1,4 +1,4 @@
 5hex-media-rules
 Švarci!
 Bitch
-Ninja
+Ninja2
