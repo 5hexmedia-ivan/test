@@ -1,2 +1,1 @@
-Hellooo world!
-5hexmedia-rules
+5hex-media-rules
