@@ -12,3 +12,7 @@ cxzcxzcxz
     bem li ga
     dodatak
 //
+
+// feature 3
+    neki vrlo zajeban algoritam
+//
