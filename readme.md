@@ -14,5 +14,6 @@ cxzcxzcxz
 //
 
 // feature 3
-    neki vrlo zajeban algoritam
+    //neki vrlo zajeban algoritam
+    novi kod
 //
