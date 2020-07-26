@@ -7,3 +7,19 @@ Promenjen naziv repoa
 dsadsadsadsadsadsadsadsadsadsadsadsacxc
 czech streets
 cxzcxzcxz
+
+//feature 2
+    bem li ga
+    dodatak
+
+//
+
+//feature 3
+    dodato u branch 2
+
+//
+
+// feature 3
+    //neki vrlo zajeban algoritam 123
+    novi kod
+//
